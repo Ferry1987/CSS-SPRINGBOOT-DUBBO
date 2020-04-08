@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.ruedigermoeller:fst:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/ruedigermoeller/fst/unknown/fst-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/ruedigermoeller/fst/unknown/fst-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/ruedigermoeller/fst/unknown/fst-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
